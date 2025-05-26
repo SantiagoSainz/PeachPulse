@@ -1,4 +1,4 @@
-# 🩺 PeachPulse – Guía para Desarrolladores
+# 🩺 PeachPulse 
 
 Bienvenido/a al código fuente de **PeachPulse**, una aplicación móvil enfocada en el monitoreo de salud y bienestar personal, desarrollada en **Flutter** con backend en **Firebase**. Este documento está diseñado para ayudarte a comprender la estructura del proyecto, cómo agregar nuevas funcionalidades y cómo escalarlo de forma ordenada y profesional.
 
