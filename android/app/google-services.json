@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565227222478",
+    "project_id": "peachpulse-ddebd",
+    "storage_bucket": "peachpulse-ddebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565227222478:android:b602b58215f9f7608ca79f",
+        "android_client_info": {
+          "package_name": "com.example.peach_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVkS8hNheJmE_Dpvf8jLktTNG2GQ7jsSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

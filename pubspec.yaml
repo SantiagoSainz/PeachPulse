@@ -1,0 +1,27 @@
+name: peach_pulse
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  lucide_icons: ^0.257.0
+  pedometer: ^4.0.0
+  fl_chart: ^0.64.0
+
+flutter:
+  assets:
+    - assets/images/ChatGPT Image.png
+    - assets/images/Ariana Grande.jpg
+
+  fonts:
+    - family: Quicksand-VariableFont_wght
+      fonts:
+        - asset: assets/fonts/Quicksand-VariableFont_wght.ttf
+  uses-material-design: true
